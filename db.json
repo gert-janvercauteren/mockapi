@@ -97,14 +97,6 @@
 			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_georgia_rgb-heart.png"
 		},
 
-
-		{
-			"id": 15,
-			"name": "Germany",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_germany_rgb-heart.png"
-		},
-
-
 		{
 			"id": 16,
 			"name": "Greece",
@@ -166,15 +158,6 @@
 			"name": "Moldova",
 			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_moldova_rgb-heart.png"
 		},
-
-
-		{
-			"id": 25,
-			"name": "Netherlands",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_netherlands_rgb-heart.png"
-		},
-
-
 		{
 			"id": 26,
 			"name": "Norway",
@@ -187,22 +170,11 @@
 			"name": "Poland",
 			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_poland_rgb-heart.png"
 		},
-
-
 		{
 			"id": 28,
 			"name": "Portugal",
 			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_portugal_rgb-heart.png"
 		},
-
-
-		{
-			"id": 29,
-			"name": "Romania",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_romania_rgb-heart.png"
-		},
-
-
 		{
 			"id": 30,
 			"name": "San Marino",
@@ -249,13 +221,6 @@
 			"id": 36,
 			"name": "Ukraine",
 			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_ukraine_rgb-heart.png"
-		},
-
-
-		{
-			"id": 37,
-			"name": "United Kingdom",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_unitedkingdom_rgb-heart.png"
 		}
 	]
 }
