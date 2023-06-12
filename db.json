@@ -1,11 +1,9 @@
 {
-    "posts": [
+    "countries": [
       {
         "id": 1,
-        "title": "hello"
+        "name": "Albania",
+        "flag_url": ""
       }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ]
   }
