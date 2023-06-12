@@ -1,226 +1,154 @@
 {
-	"countries": [
+    "countries": [
         {
-			"id": 1,
-			"name": "Albania",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_albania_rgb-heart.png"
-		},
-
-
-		{
-			"id": 2,
-			"name": "Armenia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_armenia_rgb-heart.png"
-		},
-
-
-		{
-			"id": 3,
-			"name": "Australia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_australia_rgb-heart.png"
-		},
-
-
-		{
-			"id": 4,
-			"name": "Austria",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_austria_rgb-heart.png"
-		},
-
-
-		{
-			"id": 5,
-			"name": "Azerbaijan",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_azerbaijan_rgb-heart.png"
-		},
-
-
-		{
-			"id": 6,
-			"name": "Belgium",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_belgium_rgb-heart.png"
-		},
-
-
-		{
-			"id": 7,
-			"name": "Croatia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_croatia_rgb-heart.png"
-		},
-
-
-		{
-			"id": 8,
-			"name": "Cyprus",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_cyprus_rgb-heart.png"
-		},
-
-
-		{
-			"id": 9,
-			"name": "Chechia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_chechia_rgb-heart.png"
-		},
-
-
-		{
-			"id": 10,
-			"name": "Denmark",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_denmark_rgb-heart.png"
-		},
-
-
-		{
-			"id": 11,
-			"name": "Estonia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_estonia_rgb-heart.png"
-		},
-
-
-		{
-			"id": 12,
-			"name": "Finland",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_finland_rgb-heart.png"
-		},
-
-
-		{
-			"id": 13,
-			"name": "France",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_france_rgb-heart.png"
-		},
-
-
-		{
-			"id": 14,
-			"name": "Georgia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_georgia_rgb-heart.png"
-		},
-
-		{
-			"id": 16,
-			"name": "Greece",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_greece_rgb-heart.png"
-		},
-
-
-		{
-			"id": 17,
-			"name": "Iceland",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_iceland_rgb-heart.png"
-		},
-
-
-		{
-			"id": 18,
-			"name": "Ireland",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_ireland_rgb-heart.png"
-		},
-
-
-		{
-			"id": 19,
-			"name": "Israel",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_israel_rgb-heart.png"
-		},
-
-
-		{
-			"id": 20,
-			"name": "Italy",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_italy_rgb-heart.png"
-		},
-
-
-		{
-			"id": 21,
-			"name": "Latvia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_latvia_rgb-heart.png"
-		},
-
-
-		{
-			"id": 22,
-			"name": "Lithuania",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_lithuania_rgb-heart.png"
-		},
-
-
-		{
-			"id": 23,
-			"name": "Malta",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_malta_rgb-heart.png"
-		},
-
-
-		{
-			"id": 24,
-			"name": "Moldova",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_moldova_rgb-heart.png"
-		},
-		{
-			"id": 26,
-			"name": "Norway",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_norway_rgb-heart.png"
-		},
-
-
-		{
-			"id": 27,
-			"name": "Poland",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_poland_rgb-heart.png"
-		},
-		{
-			"id": 28,
-			"name": "Portugal",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_portugal_rgb-heart.png"
-		},
-		{
-			"id": 30,
-			"name": "San Marino",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_sanmarino_rgb-heart.png"
-		},
-
-
-		{
-			"id": 31,
-			"name": "Serbia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_serbia_rgb-heart.png"
-		},
-
-
-		{
-			"id": 32,
-			"name": "Slovenia",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_slovenia_rgb-heart.png"
-		},
-
-
-		{
-			"id": 33,
-			"name": "Spain",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_spain_rgb-heart.png"
-		},
-
-
-		{
-			"id": 34,
-			"name": "Sweden",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_sweden_rgb-heart.png"
-		},
-
-
-		{
-			"id": 35,
-			"name": "Switzerland",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_switzerland_rgb-heart.png"
-		},
-
-
-		{
-			"id": 36,
-			"name": "Ukraine",
-			"flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_ukraine_rgb-heart.png"
-		}
-	]
+            "id": 1,
+            "name": "Albania",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_albania_rgb-heart.png"
+        },
+        {
+            "id": 2,
+            "name": "Armenia",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_armenia_rgb-heart.png"
+        },
+        {
+            "id": 3,
+            "name": "Australia",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_australia_rgb-heart.png"
+        },
+        {
+            "id": 4,
+            "name": "Austria",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_austria_rgb-heart.png"
+        },
+        {
+            "id": 5,
+            "name": "Croatia",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_croatia_rgb-heart.png"
+        },
+        {
+            "id": 6,
+            "name": "Cyprus",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_cyprus_rgb-heart.png"
+        },
+        {
+            "id": 7,
+            "name": "Chechia",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_chechia_rgb-heart.png"
+        },
+        {
+            "id": 8,
+            "name": "Denmark",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_denmark_rgb-heart.png"
+        },
+        {
+            "id": 9,
+            "name": "Estonia",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_estonia_rgb-heart.png"
+        },
+        {
+            "id": 10,
+            "name": "Finland",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_finland_rgb-heart.png"
+        },
+        {
+            "id": 11,
+            "name": "France",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_france_rgb-heart.png"
+        },
+        {
+            "id": 12,
+            "name": "Georgia",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_georgia_rgb-heart.png"
+        },
+        {
+            "id": 13,
+            "name": "Germany",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_germany_rgb-heart.png"
+        },
+        {
+            "id": 14,
+            "name": "Greece",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_greece_rgb-heart.png"
+        },
+        {
+            "id": 15,
+            "name": "Iceland",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_iceland_rgb-heart.png"
+        },
+        {
+            "id": 16,
+            "name": "Ireland",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_ireland_rgb-heart.png"
+        },
+        {
+            "id": 17,
+            "name": "Israel",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_israel_rgb-heart.png"
+        },
+        {
+            "id": 18,
+            "name": "Italy",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_italy_rgb-heart.png"
+        },
+        {
+            "id": 19,
+            "name": "Latvia",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_latvia_rgb-heart.png"
+        },
+        {
+            "id": 20,
+            "name": "Lithuania",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_lithuania_rgb-heart.png"
+        },
+        {
+            "id": 21,
+            "name": "Malta",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_malta_rgb-heart.png"
+        },
+        {
+            "id": 22,
+            "name": "Moldova",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_moldova_rgb-heart.png"
+        },
+        {
+            "id": 23,
+            "name": "Norway",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_norway_rgb-heart.png"
+        },
+        {
+            "id": 24,
+            "name": "Poland",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_poland_rgb-heart.png"
+        },
+        {
+            "id": 25,
+            "name": "Portugal",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_portugal_rgb-heart.png"
+        },
+        {
+            "id": 26,
+            "name": "Romania",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_romania_rgb-heart.png"
+        },
+        {
+            "id": 27,
+            "name": "Serbia",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_serbia_rgb-heart.png"
+        },
+        {
+            "id": 28,
+            "name": "Spain",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_spain_rgb-heart.png"
+        },
+        {
+            "id": 29,
+            "name": "Sweden",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_sweden_rgb-heart.png"
+        },
+        {
+            "id": 30,
+            "name": "Ukraine",
+            "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_ukraine_rgb-heart.png"
+        }
+    ]
 }

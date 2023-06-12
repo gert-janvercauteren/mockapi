@@ -3,8 +3,6 @@ const countries = [
     "Armenia",
     "Australia",
     "Austria",
-    "Azerbaijan",
-    "Belgium",
     "Croatia",
     "Cyprus",
     "Chechia",
@@ -23,27 +21,20 @@ const countries = [
     "Lithuania",
     "Malta",
     "Moldova",
-    "Netherlands",
     "Norway",
     "Poland",
     "Portugal",
     "Romania",
-    "San Marino",
     "Serbia",
-    "Slovenia",
     "Spain",
     "Sweden",
-    "Switzerland",
-    "Ukraine",
-    "United Kingdom"
+    "Ukraine"
 ];
 
 for(let i = 0; i < countries.length; i++) {
-    console.log(`
-    {
+    console.log(`{
         "id": ${i+1},
         "name": "${countries[i]}",
         "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_${countries[i].replace(" ", "").toLowerCase()}_rgb-heart.png"
-      },
-    `)
+      },`)
 }
