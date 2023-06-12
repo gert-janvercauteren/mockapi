@@ -73,6 +73,8 @@ for(let i = 0; i < countries.length; i++) {
         "id": ${i+1},
         "country_name": "${countries[i]}",
         "artist_name": "${artists[i]}",
+        "song_name": "[PLACEHOLDER]",
+        "video_id": "[PLACEHOLDER]",
         "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_${countries[i].replace(" ", "").toLowerCase()}_rgb-heart.png"
       },`)
 }
