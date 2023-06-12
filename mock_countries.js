@@ -31,10 +31,48 @@ const countries = [
     "Ukraine"
 ];
 
+const artists = [
+    "Albina & Familja Kelmendi",
+    "Brunette",
+    "Voyager",
+    "Teya & Salena",
+    "Let 3",
+    "Andrew Lambrou",
+    "Vesna",
+    "Reiley",
+    "Alika",
+    "Käärijä",
+    "La Zarra",
+    "Iru",
+    "Lord of the Lost",
+    "Victor Vernicos",
+    "Diljá",
+    "Wild Youth",
+    "Noa Kirel",
+    "Marco Mengoni",
+    "Sudden Lights",
+    "Monika Linkytė",
+    "The Busker",
+    "Pasha Parfeni",
+    "Alessandra",
+    "Blanka",
+    "Mimicat",
+    "Theodor Andrei",
+    "Luke Black",
+    "Blanca Paloma",
+    "Loreen",
+    "TVORCHI"
+]
+
+const songs = [
+
+]
+
 for(let i = 0; i < countries.length; i++) {
     console.log(`{
         "id": ${i+1},
-        "name": "${countries[i]}",
+        "country_name": "${countries[i]}",
+        "artist_name": "${artists[i]}",
         "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_${countries[i].replace(" ", "").toLowerCase()}_rgb-heart.png"
       },`)
 }

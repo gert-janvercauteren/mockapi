@@ -2,152 +2,182 @@
     "countries": [
         {
             "id": 1,
-            "name": "Albania",
+            "country_name": "Albania",
+            "artist_name": "Albina & Familja Kelmendi",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_albania_rgb-heart.png"
         },
         {
             "id": 2,
-            "name": "Armenia",
+            "country_name": "Armenia",
+            "artist_name": "Brunette",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_armenia_rgb-heart.png"
         },
         {
             "id": 3,
-            "name": "Australia",
+            "country_name": "Australia",
+            "artist_name": "Voyager",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_australia_rgb-heart.png"
         },
         {
             "id": 4,
-            "name": "Austria",
+            "country_name": "Austria",
+            "artist_name": "Teya & Salena",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_austria_rgb-heart.png"
         },
         {
             "id": 5,
-            "name": "Croatia",
+            "country_name": "Croatia",
+            "artist_name": "Let 3",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_croatia_rgb-heart.png"
         },
         {
             "id": 6,
-            "name": "Cyprus",
+            "country_name": "Cyprus",
+            "artist_name": "Andrew Lambrou",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_cyprus_rgb-heart.png"
         },
         {
             "id": 7,
-            "name": "Chechia",
+            "country_name": "Chechia",
+            "artist_name": "Vesna",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_chechia_rgb-heart.png"
         },
         {
             "id": 8,
-            "name": "Denmark",
+            "country_name": "Denmark",
+            "artist_name": "Reiley",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_denmark_rgb-heart.png"
         },
         {
             "id": 9,
-            "name": "Estonia",
+            "country_name": "Estonia",
+            "artist_name": "Alika",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_estonia_rgb-heart.png"
         },
         {
             "id": 10,
-            "name": "Finland",
+            "country_name": "Finland",
+            "artist_name": "Käärijä",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_finland_rgb-heart.png"
         },
         {
             "id": 11,
-            "name": "France",
+            "country_name": "France",
+            "artist_name": "La Zarra",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_france_rgb-heart.png"
         },
         {
             "id": 12,
-            "name": "Georgia",
+            "country_name": "Georgia",
+            "artist_name": "Iru",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_georgia_rgb-heart.png"
         },
         {
             "id": 13,
-            "name": "Germany",
+            "country_name": "Germany",
+            "artist_name": "Lord of the Lost",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_germany_rgb-heart.png"
         },
         {
             "id": 14,
-            "name": "Greece",
+            "country_name": "Greece",
+            "artist_name": "Victor Vernicos",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_greece_rgb-heart.png"
         },
         {
             "id": 15,
-            "name": "Iceland",
+            "country_name": "Iceland",
+            "artist_name": "Diljá",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_iceland_rgb-heart.png"
         },
         {
             "id": 16,
-            "name": "Ireland",
+            "country_name": "Ireland",
+            "artist_name": "Wild Youth",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_ireland_rgb-heart.png"
         },
         {
             "id": 17,
-            "name": "Israel",
+            "country_name": "Israel",
+            "artist_name": "Noa Kirel",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_israel_rgb-heart.png"
         },
         {
             "id": 18,
-            "name": "Italy",
+            "country_name": "Italy",
+            "artist_name": "Marco Mengoni",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_italy_rgb-heart.png"
         },
         {
             "id": 19,
-            "name": "Latvia",
+            "country_name": "Latvia",
+            "artist_name": "Sudden Lights",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_latvia_rgb-heart.png"
         },
         {
             "id": 20,
-            "name": "Lithuania",
+            "country_name": "Lithuania",
+            "artist_name": "Monika Linkytė",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_lithuania_rgb-heart.png"
         },
         {
             "id": 21,
-            "name": "Malta",
+            "country_name": "Malta",
+            "artist_name": "The Busker",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_malta_rgb-heart.png"
         },
         {
             "id": 22,
-            "name": "Moldova",
+            "country_name": "Moldova",
+            "artist_name": "Pasha Parfeni",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_moldova_rgb-heart.png"
         },
         {
             "id": 23,
-            "name": "Norway",
+            "country_name": "Norway",
+            "artist_name": "Alessandra",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_norway_rgb-heart.png"
         },
         {
             "id": 24,
-            "name": "Poland",
+            "country_name": "Poland",
+            "artist_name": "Blanka",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_poland_rgb-heart.png"
         },
         {
             "id": 25,
-            "name": "Portugal",
+            "country_name": "Portugal",
+            "artist_name": "Mimicat",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_portugal_rgb-heart.png"
         },
         {
             "id": 26,
-            "name": "Romania",
+            "country_name": "Romania",
+            "artist_name": "Theodor Andrei",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_romania_rgb-heart.png"
         },
         {
             "id": 27,
-            "name": "Serbia",
+            "country_name": "Serbia",
+            "artist_name": "Luke Black",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_serbia_rgb-heart.png"
         },
         {
             "id": 28,
-            "name": "Spain",
+            "country_name": "Spain",
+            "artist_name": "Blanca Paloma",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_spain_rgb-heart.png"
         },
         {
             "id": 29,
-            "name": "Sweden",
+            "country_name": "Sweden",
+            "artist_name": "Loreen",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_sweden_rgb-heart.png"
         },
         {
             "id": 30,
-            "name": "Ukraine",
+            "country_name": "Ukraine",
+            "artist_name": "TVORCHI",
             "flag_url": "https://raw.githubusercontent.com/gert-janvercauteren/mockapi/main/flags/esc_ukraine_rgb-heart.png"
         }
     ]
